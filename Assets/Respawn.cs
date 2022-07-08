@@ -13,6 +13,7 @@ public class Respawn : MonoBehaviour
       if (Input.GetButtonDown("r"))
       {
          player.transform.position = respawnPoint.transform.position;
+         player.rotation = respawnPoint.rotation;
          Debug.Log("button pressed");
       }
    }
