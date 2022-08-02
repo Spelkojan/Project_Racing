@@ -23,7 +23,7 @@ public class CarController :MonoBehaviour
 
 	float MaxMotorTorque;
 	float MaxSteerAngle { get { return CarConfig.MaxSteerAngle; } }
-	DriveType DriveType { get { return CarConfig.DriveType; } }
+	DriveType driveType { get { return CarConfig.DriveType; } }
 	bool AutomaticGearBox { get { return CarConfig.AutomaticGearBox; } }
 	AnimationCurve MotorTorqueFromRpmCurve { get { return CarConfig.MotorTorqueFromRpmCurve; } }
 	float MaxRPM { get { return CarConfig.MaxRPM; } }
@@ -105,7 +105,7 @@ public class CarController :MonoBehaviour
 		};
 
 		//Set drive wheel.
-		switch (DriveType)
+		switch (driveType)
 		{
 			case DriveType.AWD:
 			FirstDriveWheel = 0;
