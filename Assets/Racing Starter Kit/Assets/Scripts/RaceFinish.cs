@@ -12,7 +12,7 @@ public class RaceFinish : MonoBehaviour
     //the different finish panels (if you win the race or lose)
     [SerializeField] private GameObject FinishPanelWin, FinishPanelLose;
 
-    void OnTriggerEnter()//the race finish trigger will activate when ChkManager.cs script detects that you completed all laps
+    void OnTriggerEnter() //the race finish trigger will activate when ChkManager.cs script detects that you completed all laps
     {
         this.GetComponent<BoxCollider>().enabled = false;//the race finish trigger collider turns off to avoid triggering twice
         FinishCam.SetActive(true);//finish camera gets activated

@@ -24,6 +24,18 @@ public class AICarTrack : MonoBehaviour
         }
     }
 
+    // private void AssignPointNumbers()
+    // {
+    //     GameObject[] points = GameObject.FindGameObjectsWithTag("Point");
+    //
+    //     var i = 0;
+    //     foreach (var point in points)
+    //     {
+    //         point.name = "Point" + i;
+    //         i++;
+    //     }
+    // }
+
     IEnumerator OnTriggerEnter(Collider collision)
     {
         if (collision.gameObject.name == AICarName)//If the AICar collider is detected
