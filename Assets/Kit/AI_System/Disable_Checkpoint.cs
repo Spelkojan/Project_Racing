@@ -8,11 +8,12 @@ public class Disable_Checkpoint : MonoBehaviour
 
     public GameObject objectToDisable;
     public GameObject objectToActivate;
+    public int secondsToDisable;
 
     private IEnumerator ActivationRoutine()
      {        
          //Wait for 14 secs.
-         yield return new WaitForSeconds(10);
+         yield return new WaitForSeconds(secondsToDisable);
  
          //Turn My game object that is set to false(off) to True(on).
          objectToDisable.SetActive(false);
@@ -25,7 +26,7 @@ public class Disable_Checkpoint : MonoBehaviour
         {
             StartCoroutine(ActivationRoutine());
             
-            print("trigger entered");
+            // print("trigger entered");
 
             // new WaitForSeconds(10);
             // enableTargetObject.gameObject.SetActive(false);

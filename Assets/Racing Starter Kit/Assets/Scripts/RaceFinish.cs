@@ -11,6 +11,8 @@ public class RaceFinish : MonoBehaviour
     [SerializeField] private GameObject PosDisplay, PauseButton, Panel1, Panel2;
     //the different finish panels (if you win the race or lose)
     [SerializeField] private GameObject FinishPanelWin, FinishPanelLose;
+    //Drag in the car you using to disable the controller when crossing finish line
+    [SerializeField] private CarController racingCarController;
 
     void OnTriggerEnter() //the race finish trigger will activate when ChkManager.cs script detects that you completed all laps
     {
@@ -35,5 +37,6 @@ public class RaceFinish : MonoBehaviour
             AudioListener.volume = 0f;//audio turns off
             Time.timeScale = 0;//time stops
         }
+        racingCarController.GetComponent<CarController>().SetActive(false);
     }
 }

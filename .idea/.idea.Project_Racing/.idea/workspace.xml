@@ -6,46 +6,40 @@
   <component name="ChangeListManager">
     <list default="true" id="ca6d2e40-7a12-4a18-a991-dd2dff82c4be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project_Racing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project_Racing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Materials/Checkpoint.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Materials/Checkpoint.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Materials/checkers.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Materials/checkers.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/AICarTrack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/AICarTrack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kit/AI_System/Disable_Checkpoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kit/AI_System/Disable_Checkpoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/LapSelector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/LapSelector.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/RaceFinish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Racing Starter Kit/Assets/Scripts/RaceFinish.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Racing_level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Racing_level.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_07939884-718e-41c8-900e-5d709fdc3ceb.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_07939884-718e-41c8-900e-5d709fdc3ceb.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_093b6583-5fcd-4dcf-996d-c78e035548b5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_093b6583-5fcd-4dcf-996d-c78e035548b5.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_0c067624-5381-4000-bbdb-742313a57073.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_0c067624-5381-4000-bbdb-742313a57073.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Racing_level/OcclusionCullingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Racing_level/OcclusionCullingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_01b3edad-1ab1-4287-9c6d-d6bf5c470134.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_01b3edad-1ab1-4287-9c6d-d6bf5c470134.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_1d285ca2-cb39-429e-b236-66f07cd36697.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_1d285ca2-cb39-429e-b236-66f07cd36697.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_2a2e8570-6a87-44de-ae60-297b480d6bbf.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_2a2e8570-6a87-44de-ae60-297b480d6bbf.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3cfd3b8e-29bf-4bbd-9720-158910cae6fb.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3cfd3b8e-29bf-4bbd-9720-158910cae6fb.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3f34cd01-4bb4-42bc-b2bf-274d4043b975.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3f34cd01-4bb4-42bc-b2bf-274d4043b975.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_40720608-43e4-4549-af4b-e24421e5a39d.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_40720608-43e4-4549-af4b-e24421e5a39d.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_48412db6-4172-49c1-a58a-3b7f95922b45.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_48412db6-4172-49c1-a58a-3b7f95922b45.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3c015808-0b22-4a37-9509-190806521a76.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_3c015808-0b22-4a37-9509-190806521a76.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_4582938c-0ae2-4d64-8663-35eb682e4774.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_4582938c-0ae2-4d64-8663-35eb682e4774.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_50402350-92a4-4ad7-b5cf-5be4e7c9a7d7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_50402350-92a4-4ad7-b5cf-5be4e7c9a7d7.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5668e1b2-8698-47a2-a2a7-a853577a181b.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5668e1b2-8698-47a2-a2a7-a853577a181b.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_572ef328-c8d4-43bf-969f-15d80dc52376.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_572ef328-c8d4-43bf-969f-15d80dc52376.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_57d6989e-81cd-490b-9483-c21ae676cc52.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_57d6989e-81cd-490b-9483-c21ae676cc52.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_51a343b0-543b-4ff7-bd08-2d17955a7e0f.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_51a343b0-543b-4ff7-bd08-2d17955a7e0f.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5d556c7f-30b9-4806-b705-84b553375b58.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5d556c7f-30b9-4806-b705-84b553375b58.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5f2d58ef-fb10-40aa-b946-bf043fd1835a.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_5f2d58ef-fb10-40aa-b946-bf043fd1835a.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_636c5dc6-aec2-4b73-b6a0-f9e350b0ceb9.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_636c5dc6-aec2-4b73-b6a0-f9e350b0ceb9.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_6c0559e9-f078-4269-b7cc-9ca6fb7fa1f3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_6c0559e9-f078-4269-b7cc-9ca6fb7fa1f3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_751a045e-7d99-42d1-bfd6-eebe9332db83.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_751a045e-7d99-42d1-bfd6-eebe9332db83.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_8d8c2baf-19c3-4f77-8078-c9e3b5919518.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_8d8c2baf-19c3-4f77-8078-c9e3b5919518.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_91525ac9-0b9f-490f-88d0-0556207863fb.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_91525ac9-0b9f-490f-88d0-0556207863fb.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_9c2b3273-5929-4c21-9e6c-c9f3543a4dfc.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_9c2b3273-5929-4c21-9e6c-c9f3543a4dfc.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_9c9c7ace-5b35-4cd3-8149-9d7a1ff20b67.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_9c9c7ace-5b35-4cd3-8149-9d7a1ff20b67.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_aa436658-7d2e-4956-8839-392d2bc24767.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_aa436658-7d2e-4956-8839-392d2bc24767.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_b7a41fe4-cb19-45ad-b08f-639d673f6f84.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_b7a41fe4-cb19-45ad-b08f-639d673f6f84.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_6d6a4270-b117-4bf7-b45c-fb572d96b162.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_6d6a4270-b117-4bf7-b45c-fb572d96b162.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_73f2ab58-46d2-4180-9405-dd0b9ec57da0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_73f2ab58-46d2-4180-9405-dd0b9ec57da0.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_a5be4be2-deb1-491b-ba8b-4d0596b6f9d2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_a5be4be2-deb1-491b-ba8b-4d0596b6f9d2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_b28c21da-5fb5-4f2a-9702-768e69259060.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_b28c21da-5fb5-4f2a-9702-768e69259060.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_e96e1f14-4cab-43fb-9842-74d1337e93f6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_e96e1f14-4cab-43fb-9842-74d1337e93f6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_ef5a8f4f-6d3e-4f32-ae44-dbf235ce7557.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_ef5a8f4f-6d3e-4f32-ae44-dbf235ce7557.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_efbe0e33-d0cb-4d4c-ab7d-1c06de4b2513.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_efbe0e33-d0cb-4d4c-ab7d-1c06de4b2513.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_f59b6ea3-6e72-4e28-a776-1f13aa5eb4f8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_f59b6ea3-6e72-4e28-a776-1f13aa5eb4f8.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/TerrainData_fefe93b5-3b4a-44bc-866d-7044b299f086.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/TerrainData_fefe93b5-3b4a-44bc-866d-7044b299f086.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,6 +64,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Desktop/Racing_game_prototype.app/Contents/MacOS/Project_Racing" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop/Racing_game_prototype.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -103,7 +105,8 @@
       <workItem from="1657289690533" duration="4179000" />
       <workItem from="1658228159845" duration="643000" />
       <workItem from="1659431388053" duration="8303000" />
-      <workItem from="1659604902081" duration="2925000" />
+      <workItem from="1659604902081" duration="6203000" />
+      <workItem from="1659702627317" duration="438000" />
     </task>
     <servers />
   </component>

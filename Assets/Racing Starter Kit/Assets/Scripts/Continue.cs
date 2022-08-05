@@ -20,4 +20,8 @@ public class Continue : MonoBehaviour
         LapsBotsPanel.SetActive(false); //we turn off the start panel with the laps and bots
         FinishCamera.SetActive(false); //and the camera goes off too, to use the one in the player car
     }
+    public void quitGame()
+   {
+      Application.Quit();
+   }
 }
